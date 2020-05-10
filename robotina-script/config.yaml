@@ -1,4 +1,4 @@
-username: robotina.services
+username: robotina.services # your username
 
 proxy: 
   enabled: false
