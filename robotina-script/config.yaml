@@ -1,0 +1,45 @@
+username: robotina.services
+
+proxy: 
+  enabled: false
+  url: null
+
+hashtags:
+  enabled: true
+  max: 3
+  list:
+    - santiagodechile
+    - valparaiso
+    - viñadelmar
+    - rancagua
+    - venezolanosenchile
+    - emprendedoreschile
+    - ñuñoa
+    - vitacura
+
+follows:
+  enabled: true
+  average: 7
+
+unfollows:
+  enabled: true
+  average: 10
+
+view_ht_histories:
+  enabled: true
+  average: 40
+
+view_my_following_histories:
+  enabled: true
+  average: 40
+  
+likes:
+  enabled: true
+  average: 2
+
+unlikes:
+  enabled: false
+  average: 3
+
+
+
